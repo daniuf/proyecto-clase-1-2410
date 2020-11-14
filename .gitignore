@@ -2,3 +2,5 @@ TODO
 logs/*
 !logs/.gitkeep
 config.json
+cache/*
+!cache/.gitkeep
