@@ -7,6 +7,8 @@ Validamos que funcione SSH Key
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
+Se debe renombrar el archivo config.json.example por config.json y ajustar las credenciales al entorno en el cual estara ejecutandose la aplicacion
+
 ```bash
 pip install foobar
 ```
